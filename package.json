@@ -5,5 +5,9 @@
     "engines": {
         "node": "12.x"
     },
-    "main": "main.js"
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js",
+    }
+
 }
