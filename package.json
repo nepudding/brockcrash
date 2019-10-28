@@ -1,0 +1,9 @@
+{
+    "name": "young-peak-35101",
+    "version": "0.0.1",
+    "description": "hoge",
+    "engines": {
+        "node": "12.x"
+    },
+    "main": "main.js"
+}
